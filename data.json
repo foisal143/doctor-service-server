@@ -1,0 +1,74 @@
+[
+  {
+    "title": "General Checkup",
+    "image": "https://mirxes.com/blog/wp-content/uploads/2022/03/Physical-examination-by-a-doctor.jpg",
+    "description": "Comprehensive health examination for routine checkup.",
+    "price": "$100",
+    "facilities": [
+      "Physical examination",
+      "Blood pressure measurement",
+      "Basic blood tests",
+      "Health consultation"
+    ]
+  },
+  {
+    "title": "Dental Cleaning",
+    "image": "https://artofdentistrytx.com/wp-content/uploads/dental-cleaning-2011.jpg",
+    "description": "Professional cleaning to maintain oral hygiene.",
+    "price": "$80",
+    "facilities": [
+      "Scaling and polishing",
+      "Oral health assessment",
+      "Fluoride treatment",
+      "X-ray examination"
+    ]
+  },
+  {
+    "title": "Cardiac Consultation",
+    "image": "https://sa1s3optim.patientpop.com/filters:format(webp)/assets/production/practices/38e333385ae02ef21763b155985cf175fef937ec/images/2592330.jpeg",
+    "description": "Specialized consultation for heart-related concerns.",
+    "price": "$120",
+    "facilities": [
+      "ECG (Electrocardiogram)",
+      "Heart rate monitoring",
+      "Blood lipid profile",
+      "Cardiac risk assessment"
+    ]
+  },
+  {
+    "title": "Pediatric Care",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOdkozwcPcRbamGG5qgj_31dxEBaCWee1v3g&usqp=CAU",
+    "description": "Healthcare services tailored for children and infants.",
+    "price": "$90",
+    "facilities": [
+      "Childhood vaccinations",
+      "Developmental screening",
+      "Pediatrician consultation",
+      "Common illness treatment"
+    ]
+  },
+  {
+    "title": "Orthopedic Evaluation",
+    "image": "https://www.cubaheal.com/wp-content/uploads/2020/10/Orthopedic.jpeg",
+    "description": "Evaluation and consultation for musculoskeletal issues.",
+    "price": "$150",
+    "facilities": [
+      "X-ray and imaging",
+      "Joint mobility assessment",
+      "Orthopedic consultation",
+      "Treatment recommendations"
+    ]
+  },
+  {
+    "title": "Women's Health Check",
+    "image": "https://alokamedicare.in/wp-content/uploads/2022/03/Necessary-Health-Check-for-Women-at-their-40s-Alokamedicare.jpg",
+    "description": "Comprehensive health checkup focusing on women's well-being.",
+    "price": "$110",
+    "facilities": [
+      "Pelvic examination",
+      "Breast health assessment",
+      "Pap smear test",
+      "Gynecological consultation"
+    ]
+  }
+]
